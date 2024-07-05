@@ -1,0 +1,2 @@
+1. masukkin python app.py
+2. masukkan link http://127.0.0.1:5000/ kedalam google
